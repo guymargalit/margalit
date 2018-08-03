@@ -1,0 +1,17 @@
+.Social {
+  width:250px;
+  margin:0 auto;
+  margin-bottom: 20px;
+}
+
+ul li {
+  float:left;
+  display:block;
+}
+
+.Social-image {
+  border:0;
+  width:30px; 
+  height:30px; 
+  padding-right:15px;
+}

@@ -1,0 +1,108 @@
+body {
+  color: #bcc2ca;
+  background-color: #282c34;
+}
+
+a:link, a:active, a:visited, a:hover {
+  text-decoration: none;
+}
+
+.Home {
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+@media (min-width: 40rem) {
+  .Home {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+}
+
+.Home-header {
+  height: 40px;
+  margin-top: 15px;
+  text-align: left;
+}
+
+.Home-title {
+  font-size: 1.4em;
+  font-weight: 400;
+}
+
+.Home-avatar {
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.Home-intro {
+  font-size: 1.1em;
+  text-align: left;
+  font-weight: 400;
+  line-height: 1.6;
+  clear: left;
+  margin-bottom: 10px;
+}
+
+.Home-email {
+  font-size: 1em;
+  clear: left;
+  margin-bottom: 10px;
+}
+
+.Home-email:link {
+  color: #bcc2ca;
+}
+
+.Home-email:hover {
+  color: #558efc;
+}
+
+/* COLORS */
+
+.blue {
+  color: #558efc;
+}
+
+.blue:hover {
+  color: #7ea7fa;
+}
+
+.red {
+  color: #de6d77;
+}
+
+.red:hover {
+  color: #e49299;
+}
+
+.orange {
+  color: #d09a6a;
+}
+
+.orange:hover {
+  color: #d4ac88;
+}
+
+.green {
+  color: #99c27c;
+}
+
+.green:hover {
+  color: #c0d4b1;
+}
+
+.purple {
+  color: #c57bdb;
+}
+
+.purple:hover {
+  color: #d8a0e9;
+}
+
+
+@keyframes Home-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
