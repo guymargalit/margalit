@@ -1,1 +1,3 @@
-# margalit
+# Personal Website
+
+Made with React
