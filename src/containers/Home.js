@@ -39,7 +39,8 @@ export default class Home extends Component {
 					and filming{' '}
 					<a href="https://www.youtube.com/channel/UCb4nW14snGHIvW0Uuq6sBww" class="green">
 						videos {'📹'}
-					</a>. I try to post as much as I can along with any other{' '}
+					</a>
+					. I try to post as much as I can along with any other{' '}
 					<Link to="/projects" class="purple">
 						{' '}
 						projects
@@ -47,20 +48,19 @@ export default class Home extends Component {
 					I'm working on.
 					<br />
 					<br />
-					Some of the technologies I've worked with recently are React Native, Node.js, and PostgreSQL. Oh,
-					and my past work includes{' '}
+					Some of my past work includes{' '}
 					<a href="https://jila.colorado.edu/perkins/" class="blue">
 						Perkins Lab
-					</a>,{' '}
+					</a>
+					,{' '}
 					<a href="https://www.powermat.com/" class="blue">
 						Powermat
-					</a>, and{' '}
+					</a>
+					, and{' '}
 					<a href="http://www.shelfx.com/" class="blue">
 						ShelfX
-					</a>.
-					<br />
-					<br />
-					I am currently exploring new opportunities and would love to chat!
+					</a>
+					.<br />
 				</p>
 				<br />
 
