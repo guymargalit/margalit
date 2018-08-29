@@ -1,3 +1,6 @@
 # Personal Website
 
-Made with React
+Made with React.
+
+## TO DO
+- Reorganize structure
